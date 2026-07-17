@@ -1,4 +1,4 @@
-# Random Forest - Détection de faux Billets de Banque
+# Random Forest - Détection de faux billets de banque
 
 ## Description
 Ce projet présente l'utilisation de l'algorithme **Random Forest** avec **Scikit-learn** pour détecter automatiquement les **faux billets de banque** à partir de caractéristiques statistiques extraites d'images (variance, asymétrie, curtosis, entropie).
